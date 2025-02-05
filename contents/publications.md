@@ -1,3 +1,6 @@
+- Yu W, Liu R, Chen D, et al. Explainability Enhanced Object Detection Transformer with Feature Disentanglement[J]. IEEE Transactions on Image Processing, 2024.
+
+
 - Dongyue Chen, Zongxia Xie, Ruonan Liu, Wenlong Yu, Qinghua Hu, Xianling Li, Steven X. Ding. Bayesian Hierarchical Graph Neural Networks With Uncertainty Feedback for Trustworthy Fault Diagnosis of Industrial Processes[J]. IEEE Transactions on Neural Networks and Learning Systems, 2023:1-14.
 
 
