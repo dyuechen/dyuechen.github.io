@@ -1,11 +1,12 @@
 [![dyuechen](https://img.shields.io/badge/dyuechen-github-blue?logo=github)](https://github.com/dyuechen)
 
-Dongyue Chen received the B.S. and M.S. degrees from Southwest Jiaotong University, Chengdu, China, and Ph.D. degrees from Tianjin University, Tianjin, China, in 2015, 2018, and 2023, respectively. She is currently a postdoctoral researcher with the College of Intelligence and Computing, Tianjin University, Tianjin, China. Her research interests include artificial intelligence, incremental learning, trustworthy deep learning, and fault diagnosis of mechanical systems.
+陈东月，天津大学人工智能学院，副研究员，毕业于天津大学计算机应用技术专业，工学博士。长期从事复杂动态系统建模、工业故障诊断以及时空预测方向的研究。面向重点设备故障诊断，结合不确定性估计与图学习，提出可信图神经网络系列方法，并成功嵌入燃气轮机故障诊断系统以及动力系统智能故障诊断平台。发表 SCI一区/CCF-A 类/IEEE汇刊论文 10 余篇，其中2篇论文入选 ESI 高被引论文、含 1 篇同时入选 ESI 热点论文，受邀为IEEE TNNLS、IEEE TCSVT、IEEE TMM、AAAI、NeurIPS等国际高水平期刊及会议审稿。获得 2023 年度中国博士后科学基金会与天津市联合资助，入选天津市博士后创新岗位。主持国家自然科学基金青年科学基金（C类）项目、中国博士后科学基金面上项目；深度参与国家科技重大专项、国防基础科研计划子课题、国家自然科学基金重点项目等。主要研究方向包括图神经网络、工业故障诊断、可持续学习、大小模型协同。<img width="432" height="156" alt="image" src="https://github.com/user-attachments/assets/97caa94d-7737-4062-b9a2-c2201b7bbe7f" />
+
 
 
 #### Email
 dyuechen[at]tju.edu.cn
 
 #### Research Interests
-Deep Learning, Artificial Intelligence, Graph neural network, Intelligent fault diagnosis
+围绕实际工业场景开展基础，包含多元时序建模，复杂动态系统建模，异常检测、工业设备故障诊断、时空预测、持续学习等课题方向。
 
